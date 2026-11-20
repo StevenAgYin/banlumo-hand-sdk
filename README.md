@@ -43,3 +43,10 @@ For selection, software questions and service coordination, contact Banlumo firs
 ## Attribution and license
 
 This is a Banlumo-maintained derivative integration edition, not original hardware or firmware. Upstream copyright and MIT permissions remain in [LICENSE](LICENSE). Provenance and the pinned source version are recorded in [UPSTREAM.json](UPSTREAM.json). Banlumo changes are recorded in [CHANGELOG.md](CHANGELOG.md). Third-party dependencies retain their own licenses.
+
+## Other Banlumo source families
+
+- [RH15 C++ / ROS 2 source](https://github.com/StevenAgYin/banlumo-rh15-sdk)
+- [RH6 C++ / ROS 2 source](https://github.com/StevenAgYin/banlumo-rh6-sdk)
+
+These are separate hardware/software families, not interchangeable SDKs. Check each repository’s license, missing runtime prerequisites and configuration notes.
